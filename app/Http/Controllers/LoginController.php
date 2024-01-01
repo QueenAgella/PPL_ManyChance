@@ -22,7 +22,10 @@ class LoginController extends Controller
             'register2' => 'Daftar Disini',
 
             'css' => 'login.css',
-            'js' => 'login.js'
+            'js' => 'login.js',
+
+            'text'=> 'Sistem Data Pelatih',
+            'text2'=> 'ManyChance'
         ]);
     }
 
